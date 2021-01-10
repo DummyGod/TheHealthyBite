@@ -224,7 +224,7 @@ overflow: visible;
     }
 
     .menu-mobile .navbar-nav {
-        margin-top: 35px;
+        margin-top: 18px;
     }
     .menu-mobile .mini-icon {
         width: 30px;
@@ -234,7 +234,7 @@ overflow: visible;
 
     .menu-mobile img {
         width: 90px;
-        height: 60px;
+        height: 76px;
         margin-left: 50%;
         transform: translateX(-50%);
     }

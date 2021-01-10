@@ -12,7 +12,7 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
   
-  imgs = [1,2,3,4,5,6,7,8,9,10];
+  imgs = [1,2,3,4,5];
   depoimentos = [
     {
       texto: "Em Construção",
