@@ -12,11 +12,11 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
   
-  imgs = [1,2,3,4,5];
+  imgs = [1,2,3,4,5,6];
   depoimentos = [
     {
-      texto: "Em Construção",
-      pessoa: "Em Construção",
+      texto: "Taste of cake was really awesome .. Thank you Aarti",
+      pessoa: "Harish",
     },
   ];
 
