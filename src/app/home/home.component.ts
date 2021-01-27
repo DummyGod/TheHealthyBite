@@ -12,7 +12,7 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
   
-  imgs = [1,2,3,4,5,6];
+  imgs = [1,2,3,4,5,6,11,33];
   depoimentos = [
     {
       texto: "Taste of cake was really awesome .. Thank you Aarti",
@@ -21,7 +21,7 @@ export class HomeComponent implements OnInit {
   ];
 
 
-  closeButtonText: String = "Fechar";
+  closeButtonText: String = "Close";
 
 
 
