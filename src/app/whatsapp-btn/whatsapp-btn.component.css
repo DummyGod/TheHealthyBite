@@ -10,7 +10,7 @@
     height: 60px;
     border: none;
     border-radius: 30px;
-    background-color: #fcfcfc;
+    background-color: #4FCE5D;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.17);
     z-index: 2;
     transition: all 300ms ease;
@@ -19,8 +19,8 @@
 
 .botao-whatsapp i {
     line-height: 60px;
-    font-size: 28px;
-    color: #d14d8b;
+    font-size: 36px;
+    color:#FFFFFF;
     transition: all 300ms ease;
 }
 
@@ -28,7 +28,7 @@
 
 .botao-whatsapp:hover {
     transform:translate(0px,0px) scale(1.10,1.10);
-    background-color: #e291b7;
+    background-color: #4FCE5D;
 }
 
 .botao-whatsapp:hover i {
@@ -48,8 +48,8 @@
     }
     .botao-whatsapp i {
     line-height: 50px;
-    font-size: 24px;
-    color: #d14d8b;
+    font-size: 30px;
+    color: #FFFFFF;
     transition: all 300ms ease;
 }
 }
